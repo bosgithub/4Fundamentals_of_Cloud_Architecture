@@ -2,4 +2,5 @@
 
 ## What is cloud computing?
 
-Cloud computing architecture consist of a front end platform (fat client, thin client, mobile ),back end platforms (servers, storage), a cloud based delivery, and a network (Internet, Intranet, Intercloud). 
+Cloud computing is the delivery of technology services, including compute, storage, database, networking, software, and more. This is done over the internet with pay as you go pricing.
+
