@@ -11,4 +11,8 @@ The other option is to use cloud computing. This time, we put our website on a c
 Billing works similar to how we pay for electricity or gas. When we use the cloud service, the meter starts running, and when we're done we turn it off and the meter stops.
 
 ## Cloud computing vs. on-premise
-Let's contrast these two approaches. Cloud is more scalable as you can easily add or release cloud resources. Compared to on-premise it also has a fast set-up speed. Lastly, the billing is more flexible in the cloud since you only pay for what you use. However, an important note to make is that the best approach depends on your use case. There are situations in which an on-premise server is cheaper or possibly more secure. You can do more with the cloud than host a website on a server. You could store, back up, and recover data, create cloud-native applications, stream audio and video, deliver software on demand, analyze data, embed artificial intelligence models, and much more.
+Cloud is more scalable as we can easily add or release cloud resources. It also has a fast set-up speed. Lastly, the billing is more flexible in the cloud since we only pay for what we use.
+
+There are situations in which an on-premise server is cheaper or possibly more secure. You can do more with the cloud than host a website on a server. You could store, back up, and recover data, create cloud-native applications, stream audio and video, deliver software on demand, analyze data, embed artificial intelligence models, and much more.
+
+
