@@ -17,4 +17,4 @@ There are situations in which an on-premise server is cheaper or possibly more s
 
 
 ## Uses of cloud computing
-
+virtualization, scalability, cost, speed, performance, growth, reliability, and security.
