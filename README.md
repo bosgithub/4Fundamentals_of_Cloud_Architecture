@@ -30,7 +30,24 @@ Virtualization: Fundamental technology that powers cloud computing, it splits ph
 
 Scalability: Ease to add and remove resources as you need them
 
+Vertical scaling: Increase the power of the instance
+Horizontal scaling: Increase number of instance
 
 
 
-cost, speed, performance, growth, reliability, and security.
+
+cost: pay for what you use, no capital cost and pay as you go
+
+
+speed: Fast set up time and on demand resource
+
+
+performance:
+
+
+, growth
+
+
+, reliability
+
+, and security.
