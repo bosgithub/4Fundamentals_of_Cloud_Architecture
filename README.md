@@ -16,5 +16,21 @@ Cloud is more scalable as we can easily add or release cloud resources. It also 
 There are situations in which an on-premise server is cheaper or possibly more secure. You can do more with the cloud than host a website on a server. You could store, back up, and recover data, create cloud-native applications, stream audio and video, deliver software on demand, analyze data, embed artificial intelligence models, and much more.
 
 
-## Uses of cloud computing
-virtualization, scalability, cost, speed, performance, growth, reliability, and security.
+## Cloud Serivces:
+Compute: provide the brains to process the workload
+
+Storage: save and store data
+
+Database: store more structured sets of data
+
+## Characteristics of cloud computing
+Virtualization: Fundamental technology that powers cloud computing, it splits physical servers into multiple virtual servers each runing independently. This maximizes the ouput of individual servers
+
+
+
+Scalability: Ease to add and remove resources as you need them
+
+
+
+
+cost, speed, performance, growth, reliability, and security.
