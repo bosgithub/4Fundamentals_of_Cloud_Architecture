@@ -49,3 +49,7 @@ growth: Cloud grow using a wide range of resources and services
 reliability: Guaranteed durability and availability of data and services, duplication of data accross data centers and availability is ensured even in cases of natural disasters
 
 security: secure storage and management of data, risky to trust 3rd party with your own data.
+
+
+### Cloud Service Models:
+
