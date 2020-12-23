@@ -42,12 +42,10 @@ cost: pay for what you use, no capital cost and pay as you go
 speed: Fast set up time and on demand resource
 
 
-performance:
+performance: Access to fast and efficient computing resources, there are data centers which house an organization's IT operations and equipments. Cloud give fast computer hardwares access to worldwide network of data centers 
 
+growth: Cloud grow using a wide range of resources and services
 
-, growth
+reliability: Guaranteed durability and availability of data and services, duplication of data accross data centers and availability is ensured even in cases of natural disasters
 
-
-, reliability
-
-, and security.
+security: secure storage and management of data, risky to trust 3rd party with your own data.
