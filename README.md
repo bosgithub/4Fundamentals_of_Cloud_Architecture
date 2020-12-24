@@ -53,3 +53,11 @@ security: secure storage and management of data, risky to trust 3rd party with y
 
 ### Cloud Service Models:
 
+On Premise:
+
+Infrastructure as a service(Iaas):
+
+Platform as a service(PaaS):
+
+Software as a service(SaaS):
+
