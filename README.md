@@ -50,6 +50,7 @@ reliability: Guaranteed durability and availability of data and services, duplic
 
 security: secure storage and management of data, risky to trust 3rd party with your own data.
 
+---
 
 ### Cloud Service Models:
 
