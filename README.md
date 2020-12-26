@@ -62,3 +62,5 @@ Platform as a service(PaaS):
 
 Software as a service(SaaS):
 
+### Companies providing Cloud computing:
+
