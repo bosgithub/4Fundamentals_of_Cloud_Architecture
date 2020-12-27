@@ -54,7 +54,10 @@ security: secure storage and management of data, risky to trust 3rd party with y
 
 ### Cloud Service Models:
 
+in terms of the car analogy.
+
 On Premise:
+For the on-premise approach. We are responsible for everything; the car, maintenance, insurance, cleaning, parking, fuel, driving, and finding a route
 
 Infrastructure as a service(Iaas):
 
