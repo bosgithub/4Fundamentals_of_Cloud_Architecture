@@ -66,17 +66,25 @@ For the on-premise approach. We are responsible for everything; the car, mainten
 
 ***Infrastructure as a service(Iaas):***
 
-Cloud based alternative to on-premise infrastructure, the main advantages are scalable alternative to expensive on premise infrastructure. The users are system admins, and some examples are cloud servers from Google compute engine, Microsoft Azure, Amazon Web Services.
+Cloud based alternative to on-premise infrastructure, the main advantages are scalable alternative to expensive on premise infrastructure. The users are system admins, and some examples are cloud servers from Google compute engine, Microsoft Azure, Amazon Web Services
 
-*Below are what's required for a typical Iass*
+*Below are what's required for a typical Iaas*
 
 [~~Networking, Storage, Servers, Virtualization,~~ O/S, Middleware, Runtime, Data, Applications]
 
-Platform as a service(PaaS):
+***Platform as a service(PaaS):***
+
+Hardware and software tools over the internet used to develop applications, the main advantages are that the developers don't need to start from scratch when creating applications. The main users are developers and examples of Paas are web apps, logic apps such as google app engine, windows azure, aws elastic beanstalk
+
+*Below are what's required for a typical Paas*
 
 [~~Networking, Storage, Servers, Virtualization, O/S, Middleware, Runtime,~~ Data, Applications]
 
 Software as a service(SaaS):
+
+
+
+*Below are what's required for a typical Paas*
 
 [~~Networking, Storage, Servers, Virtualization, O/S, Middleware, Runtime, Data, Applications~~]
 
