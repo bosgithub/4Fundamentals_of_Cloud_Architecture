@@ -59,14 +59,22 @@ in terms of the car analogy.
 [Networking, Storage, Servers, Virtualization, O/S, Middleware, Runtime, Data, Applications]
 
 On Premise:
+
 For the on-premise approach. We are responsible for everything; the car, maintenance, insurance, cleaning, parking, fuel, driving, and finding a route
 
 [Networking, Storage, Servers, Virtualization, O/S, Middleware, Runtime, Data, Applications]
+
 Infrastructure as a service(Iaas):
+
 [~~Networking, Storage, Servers, Virtualization,~~ O/S, Middleware, Runtime, Data, Applications]
+
 Platform as a service(PaaS):
+
 [~~Networking, Storage, Servers, Virtualization, O/S, Middleware, Runtime,~~ Data, Applications]
+
 Software as a service(SaaS):
+
 [~~Networking, Storage, Servers, Virtualization, O/S, Middleware, Runtime, Data, Applications~~]
+
 ### Companies providing Cloud computing:
 
