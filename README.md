@@ -64,7 +64,11 @@ For the on-premise approach. We are responsible for everything; the car, mainten
 
 [Networking, Storage, Servers, Virtualization, O/S, Middleware, Runtime, Data, Applications]
 
-Infrastructure as a service(Iaas):
+***Infrastructure as a service(Iaas):***
+
+Cloud based alternative to on-premise infrastructure, the main advantages are scalable alternative to expensive on premise infrastructure. The users are system admins, and some examples are cloud servers from Google compute engine, Microsoft Azure, Amazon Web Services.
+
+*Below are what's required for a typical Iass*
 
 [~~Networking, Storage, Servers, Virtualization,~~ O/S, Middleware, Runtime, Data, Applications]
 
